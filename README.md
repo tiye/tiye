@@ -1,6 +1,6 @@
 ### [题叶](http://tiye.me/)(tí yè)
 
-Rust and Calcit programmer in Shanghai. Creator of "Calcit" language. Interested in building web based tools and exloring FP for Web UIs.
+Rust and Calcit programmer in Shanghai. Creator of "Calcit" language. Interested in building web based tools and exploring FP for Web UIs.
 
 Some of my projects and tools.
 
