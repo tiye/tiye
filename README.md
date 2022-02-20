@@ -12,4 +12,4 @@ Some of my projects and tools.
 | [Quamolit GL](http://quamolit.org/)        | [@Quamolit](http://github.com/Quamolit/)      | stateful wrappers over Canvas Libraries for exploring                           |
 | [TopixIM](http://topix.im/)                | [@TopixIM](https://github.com/TopixIM)        | "Sharing topics over the wire!", based on [@Cumulo](https://github.com/Cumulo/) |
 
-Find me on [Twitter](https://twitter.com/) and [哔哩哔哩](https://space.bilibili.com/14227306/video).
+Find me on [Twitter](https://twitter.com/tiyecirru) and [哔哩哔哩](https://space.bilibili.com/14227306/video).
