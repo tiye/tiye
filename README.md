@@ -2,14 +2,15 @@
 
 Rust and Calcit programmer in Shanghai. Creator of "Calcit" language. Interested in building web based tools and exploring FP for Web UIs.
 
-Some of my projects and tools.
+| Project                                    | org                                                          | desc                                             |
+| ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------ |
+| [Calcit Language](http://calcit-lang.org/) | [@calcit-lang](http://github.com/calcit-lang)                | a scripting language in Rust, dialect of Clojure |
+| [Cirru Syntax](http://cirru.org/)          | [@Cirru](http://github.com/Cirru/)                           | modern interface for S-Expressions               |
+| [Respo MVC](http://respo-mvc.org/)         | [@Respo](http://github.com/Respo/)                           | Virtual DOM library with persistent data at core |
+| Phlox                                      | [@Phlox-GL](http://github.com/Phlox-GL/)                     | calcit-js declarative wrapper on PIXI.js         |
+| Quatrefoil                                 | [Quatrefoil-GL](https://github.com/Quatrefoil-GL/quatrefoil) | calcit-js declarative wrapper on three.js        |
+| Cumulo                                     | [@Cumulo](https://github.com/Cumulo/)                        | app template for tiny realtime webapps           |
 
-| Project                                    | org                                           | desc                                                                            |
-| ------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Calcit Language](http://calcit-lang.org/) | [@calcit-lang](http://github.com/calcit-lang) | a scripting language made in Rust, dialect of Clojure                           |
-| [Respo MVC](http://respo-mvc.org/)         | [@Respo](http://github.com/Respo/)            | Virtual DOM Library with persistent data in mind                                |
-| [Cirru](http://cirru.org/)                 | [@Cirru](http://github.com/Cirru/)            | modern interface for S-Expressions                                              |
-| [Quamolit GL](http://quamolit.org/)        | [@Quamolit](http://github.com/Quamolit/)      | stateful wrappers over Canvas Libraries for exploring                           |
-| [TopixIM](http://topix.im/)                | [@TopixIM](https://github.com/TopixIM)        | "Sharing topics over the wire!", based on [@Cumulo](https://github.com/Cumulo/) |
+and use them to power up my tiny apps under [Memkits](https://github.com/Memkits/), [TopixIM](https://github.com/TopixIM/) and some other projects.
 
-Find me on [Twitter](https://twitter.com/tiyecirru) and [哔哩哔哩](https://space.bilibili.com/14227306/video).
+Also find me on [Twitter](https://twitter.com/tiyecirru) and [哔哩哔哩](https://space.bilibili.com/14227306/video).
